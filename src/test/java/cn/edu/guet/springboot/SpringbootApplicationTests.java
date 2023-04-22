@@ -8,7 +8,7 @@ class SpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("ggg");
+		System.out.println("g-----gg");
 	}
 
 }
